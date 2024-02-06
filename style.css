@@ -1,0 +1,229 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    font-family: "DM Sans";
+    color: #FFFFFF;
+    box-sizing: border-box;
+}
+body {
+    background: #191919;
+}
+.button_view {
+    margin-top: clamp(20px, 30px, 40px);
+}
+.first-abzaz-end-image {
+    position: relative;
+    width: 556px;
+height: 66px;
+top: 264.84px;
+color: #FFFFFFB2;
+}
+.second-abzaz-end-image {
+    position: relative;
+    font-family: DM Sans;
+font-size: 22px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+width: 528px;
+height: 66px;
+top: 363.84px;
+ color: #FFFFFFB2;
+;
+
+
+}
+.name-end-image {
+    font-family: DM Sans;
+font-size: 65px;
+font-weight: 400;
+line-height: 79px;
+letter-spacing: 2.880000114440918px;
+text-align: left;
+width: 496px;
+height: 80px;
+top: 156.84px;
+}
+.content-meet-your-host {
+    color: #118DA8;
+    font-family: DM Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+width: 126px;
+height: 27px;
+top: 131.84px;
+}
+.endimage-div {
+    display: flex;
+    justify-content: center;
+}
+.end-image-text {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+}
+.navigation div h1 {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navigation div a {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+button {
+    background-color: #118DA8;
+}
+img {
+    border-radius: 5%;
+}
+.navigation {
+width: 100vw;
+height: 67px;
+top: 26px;
+padding: 0px, 50px, 0px, 50px;
+}
+nav {
+    overflow: hidden;
+}
+
+.HeroCaption {
+    font-family: DM Sans;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 88px;
+    letter-spacing: 3.200000047683716px;
+    float: right;
+    width: 600px;
+height: 610.58px;
+top: 131.42px;
+left: 710px;
+grid-area: HeroCaption;
+position:absolute;
+transform: translateY(30%) translateX(20%);
+
+}
+.episodes {
+    background-color: black;
+    margin: 50px;
+}
+.name-episode {
+    background: #363636 center fixed;
+    max-width:max-content
+}
+.Listen_on {
+    width: 289px;
+height: 72px;
+top: 516.58px;
+}
+article img {
+    margin: 50px;
+}
+article div {
+    margin-top: 20px;
+    background-color: inherit;
+}
+article {
+    width: 1300px;
+    height: 512px;
+    top: 604.56px;
+    border-radius: 32px;
+    display: flex;
+    justify-items: center;
+}
+.content-end-image {
+    float: left;
+}
+.Content-in-episode {
+    float: right;
+    width: 778px;
+height: 432px;
+left: 442px;
+background-color: inherit;
+}
+.quant-episode {
+   color: #118DA8;
+   background-color: black;
+}
+.Button-view-all-episodes {
+ float: right;
+ width: 270px;
+height: 51px;
+transform: translateY(90%);
+}
+.default-text-in-episode {
+    font-family: DM Sans;
+font-size: 22px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.hightext-in-episode {
+    font-family: DM Sans;
+font-size: 64px;
+font-weight: 400;
+line-height: 70px;
+letter-spacing: 2.559999942779541px;
+text-align: left;
+background-color: black; 
+}
+.content-latest-episodes {
+    font-family: DM Sans;
+font-size: 64px;
+font-weight: 400;
+line-height: 79px;
+letter-spacing: 2.880000114440918px;
+text-align: left;
+width: 100vw;
+height: 99px;
+top: 100.44px;
+left: 50px;
+}
+
+.hero {
+    width: 100vw;
+height: 873.44px;
+top: 40px;
+left: 50px;
+padding: 0px, 60px, 0px, 0px;
+}
+.content-next {
+    text-decoration: underline blue;
+}
+.naushi {
+    width: 650px;
+height: 873px;
+border-radius: 12px;
+}
+.soundbar {
+    width: 389px;
+height: 432px;
+}
+.Microphone {
+    width: 389px;
+height: 432px;
+}
+.SMicrophone {
+    width: 389px;
+height: 432px;
+
+}
+.endimage {
+    min-height : 30vw;
+    min-width: 20vw;
+}
